@@ -78,7 +78,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #000000;
 }
 
 #preloader:before {
@@ -157,7 +157,7 @@ h6 {
 }
 
 .logo-container {
-  position: absolute;
+  position: fixed;
   top: 7%;
   left: 50%;
   transform: translate(-50%, -50%);
